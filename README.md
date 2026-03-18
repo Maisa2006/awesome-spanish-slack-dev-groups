@@ -98,3 +98,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 
 ### Uruguay
 - [Javascript Uruguay](http://owu.herokuapp.com/)
+
+### Colombia
+- [Python Colombia](https://www.python.org.co/)
+- [Colombia Dev](https://colombia-dev.org/)
